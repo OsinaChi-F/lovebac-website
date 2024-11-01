@@ -1,0 +1,22 @@
+/*********************************TAG SELECTORS**********************************/
+
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+/*
+img{
+    background-color: red;
+}
+*/
+
+/***********************************CLASS SELECTORS***********************************/
+
+.Bacon {
+    background-color: green;
+    size: 200%;
+      }
+.Broccoli {
+    background-color: red;
+}      
